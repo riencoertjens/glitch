@@ -1,0 +1,22 @@
+{
+  "name": "glitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riencoertjens/glitch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riencoertjens/glitch/issues"
+  },
+  "homepage": "https://github.com/riencoertjens/glitch#readme",
+  "dependencies": {
+    "libphonenumber-js": "^1.10.13"
+  }
+}
